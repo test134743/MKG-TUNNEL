@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" width="256" height="256" role="img" aria-label="MKG TUNNEL">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.25" y2="1">
+      <stop offset="0" stop-color="#ffe000"/>
+      <stop offset="0.52" stop-color="#ff9500"/>
+      <stop offset="1" stop-color="#ff4d00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1254" height="1254" rx="180" fill="#000000"/>
+  <path d="M410 268 L569 491 L380 927 L133 927 Z" fill="url(#g)"/>
+  <path d="M520 600 L380 927 L133 927 Z" fill="#ff4d00" opacity=".55"/>
+  <path d="M718 268 L1139 927 L924 927 L766 672 L652 927 L441 927 Z" fill="url(#g)"/>
+  <path d="M766 672 L652 927 L441 927 Z" fill="#ff4d00" opacity=".55"/>
+</svg>
