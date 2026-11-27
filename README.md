@@ -11,7 +11,7 @@
 [![Downloads](https://img.shields.io/github/downloads/test134743/MKG-TUNNEL/total?style=for-the-badge&color=ff4d00&label=Downloads)](https://github.com/test134743/MKG-TUNNEL/releases)
 ![Platforms](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-ffb000?style=for-the-badge)
 
-[**⬇ Android APK**](https://github.com/test134743/MKG-TUNNEL/releases/latest) ·
+[**⬇ ទាញយក Android APK**](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.apk) ·
 [**⬇ ទាញយក Windows EXE**](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.exe) ·
 [គ្រប់កំណែ (Releases)](https://github.com/test134743/MKG-TUNNEL/releases)
 
@@ -46,7 +46,7 @@
 
 | ប្រព័ន្ធ | ឯកសារ | តំណទាញយក |
 | --- | --- | --- |
-| Android | `.apk` | មិនទាន់មានក្នុង v1.0.1 · [មើល Releases](https://github.com/test134743/MKG-TUNNEL/releases) |
+| Android | `MKG.TUNNEL.v1.0.1.apk` | [ទាញយក](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.apk) |
 | Windows | `MKG.TUNNEL.v1.0.1.exe` (93.5 MB) | [ទាញយក](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.exe) |
 
 > សូមទាញយកពីទំព័រ Releases ផ្លូវការនេះតែប៉ុណ្ណោះ ដើម្បីជៀសវាងឯកសារក្លែងក្លាយ។
@@ -57,7 +57,7 @@
 
 ```bash
 # Linux / macOS
-sha256sum MKG.TUNNEL.v1.0.1.exe
+sha256sum MKG.TUNNEL.v1.0.1.apk
 ```
 
 ```powershell
@@ -69,7 +69,7 @@ Get-FileHash .\MKG.TUNNEL.v1.0.1.exe -Algorithm SHA256
 
 ### Android
 
-1. ទាញយកឯកសារ APK (នៅពេលមានក្នុង Release)
+1. ទាញយកឯកសារ `MKG.TUNNEL.v1.0.1.apk`
 2. ក្នុង **Settings** អនុញ្ញាត **Install unknown apps** សម្រាប់ Browser ឬ File Manager ដែលអ្នកប្រើ
 3. បើកឯកសារ APK ហើយចុច **Install**
 4. បើកកម្មវិធី **MKG TUNNEL**
