@@ -7,13 +7,13 @@
 កម្មវិធី Tunnel ដែលគាំទ្រ **Import V2Ray**, **Import Sub** និង **Auto Server**។
 ប្រើបានលើ **Android** និង **Windows**។
 
-[![Latest release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=ff7a00&label=Release)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?style=for-the-badge&color=ff4d00&label=Downloads)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![Latest release](https://img.shields.io/github/v/release/test134743/MKG-TUNNEL?style=for-the-badge&color=ff7a00&label=Release)](https://github.com/test134743/MKG-TUNNEL/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/test134743/MKG-TUNNEL/total?style=for-the-badge&color=ff4d00&label=Downloads)](https://github.com/test134743/MKG-TUNNEL/releases)
 ![Platforms](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-ffb000?style=for-the-badge)
 
-[**⬇ ទាញយក Android APK**](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/MKG-TUNNEL.apk) ·
-[**⬇ ទាញយក Windows EXE**](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/MKG-TUNNEL-Setup.exe) ·
-[គ្រប់កំណែ (Releases)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[**⬇ Android APK**](https://github.com/test134743/MKG-TUNNEL/releases/latest) ·
+[**⬇ ទាញយក Windows EXE**](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.exe) ·
+[គ្រប់កំណែ (Releases)](https://github.com/test134743/MKG-TUNNEL/releases)
 
 </div>
 
@@ -42,12 +42,12 @@
 
 ## ទាញយក (Releases)
 
-កំណែចុងក្រោយបំផុតមាននៅទំព័រ **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)**។
+កំណែចុងក្រោយបំផុតមាននៅទំព័រ **[Releases](https://github.com/test134743/MKG-TUNNEL/releases/latest)**។
 
 | ប្រព័ន្ធ | ឯកសារ | តំណទាញយក |
 | --- | --- | --- |
-| Android | `MKG-TUNNEL.apk` | [ទាញយក](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/MKG-TUNNEL.apk) |
-| Windows | `MKG-TUNNEL-Setup.exe` | [ទាញយក](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/MKG-TUNNEL-Setup.exe) |
+| Android | `.apk` | មិនទាន់មានក្នុង v1.0.1 · [មើល Releases](https://github.com/test134743/MKG-TUNNEL/releases) |
+| Windows | `MKG.TUNNEL.v1.0.1.exe` (93.5 MB) | [ទាញយក](https://github.com/test134743/MKG-TUNNEL/releases/download/v1.0.1/MKG.TUNNEL.v1.0.1.exe) |
 
 > សូមទាញយកពីទំព័រ Releases ផ្លូវការនេះតែប៉ុណ្ណោះ ដើម្បីជៀសវាងឯកសារក្លែងក្លាយ។
 
@@ -57,27 +57,27 @@
 
 ```bash
 # Linux / macOS
-sha256sum MKG-TUNNEL.apk
+sha256sum MKG.TUNNEL.v1.0.1.exe
 ```
 
 ```powershell
 # Windows PowerShell
-Get-FileHash .\MKG-TUNNEL-Setup.exe -Algorithm SHA256
+Get-FileHash .\MKG.TUNNEL.v1.0.1.exe -Algorithm SHA256
 ```
 
 ## ការដំឡើង
 
 ### Android
 
-1. ទាញយកឯកសារ `MKG-TUNNEL.apk`
+1. ទាញយកឯកសារ APK (នៅពេលមានក្នុង Release)
 2. ក្នុង **Settings** អនុញ្ញាត **Install unknown apps** សម្រាប់ Browser ឬ File Manager ដែលអ្នកប្រើ
 3. បើកឯកសារ APK ហើយចុច **Install**
 4. បើកកម្មវិធី **MKG TUNNEL**
 
 ### Windows
 
-1. ទាញយកឯកសារ `MKG-TUNNEL-Setup.exe`
-2. ចុចពីរដងដើម្បីដំណើរការកម្មវិធីដំឡើង ហើយធ្វើតាមការណែនាំ
+1. ទាញយកឯកសារ `MKG.TUNNEL.v1.0.1.exe`
+2. ចុចពីរដងដើម្បីដំណើរការឯកសារ EXE ហើយធ្វើតាមការណែនាំ
 3. បើកកម្មវិធី **MKG TUNNEL**
 
 ## របៀបប្រើប្រាស់
@@ -101,7 +101,7 @@ Get-FileHash .\MKG-TUNNEL-Setup.exe -Algorithm SHA256
 
 ## បញ្ជីការផ្លាស់ប្ដូរ (Changelog)
 
-### v1.0.0
+### v1.0.1
 
 - ចេញផ្សាយលើកដំបូង
 - Import V2Ray
@@ -120,28 +120,9 @@ Get-FileHash .\MKG-TUNNEL-Setup.exe -Algorithm SHA256
 បាន។ ដំឡើងលើទូរស័ព្ទ Android និងកុំព្យូទ័រ Windows ដោយទាញយកកំណែនីមួយៗ។
 
 **រកឃើញបញ្ហា ឬមានសំណូមពរ?**
-សូមបើក [Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) នៅលើ GitHub។
+សូមបើក [Issue](https://github.com/test134743/MKG-TUNNEL/issues) នៅលើ GitHub។
 
 ---
-
-## សម្រាប់អ្នកគ្រប់គ្រង: របៀបបង្កើត Release
-
-1. ចូលទៅ **Releases → Draft a new release**
-2. បង្កើត Tag ថ្មី ឧទាហរណ៍ `v1.0.0`
-3. ដាក់ចំណងជើង ឧទាហរណ៍ `MKG TUNNEL v1.0.0` ហើយចម្លងអត្ថបទពី Changelog ខាងលើ
-4. ផ្ទុកឡើងឯកសារ **`MKG-TUNNEL.apk`** និង **`MKG-TUNNEL-Setup.exe`** (ឈ្មោះត្រូវដូចតំណក្នុង README នេះ)
-5. ចុច **Publish release**
-
-ឬប្រើ GitHub CLI៖
-
-```bash
-gh release create v1.0.0 \
-  MKG-TUNNEL.apk MKG-TUNNEL-Setup.exe \
-  --title "MKG TUNNEL v1.0.0" \
-  --notes "ចេញផ្សាយលើកដំបូង: Import V2Ray, Import Sub, Auto Server"
-```
-
-> កុំភ្លេចជំនួស `YOUR_USERNAME` និង `YOUR_REPO` ក្នុងឯកសារនេះ ដោយឈ្មោះគណនី និង Repository ពិតរបស់អ្នក។
 
 ## អាជ្ញាប័ណ្ណ
 
